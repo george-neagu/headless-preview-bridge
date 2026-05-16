@@ -3,7 +3,7 @@
  * Plugin Name: Headless Preview Bridge
  * Description: Redirects WordPress previews to a headless frontend.
  * Version: 0.1.0
- * Author: Your Name
+ * Author: George Neagu
  */
 
 if (!defined('ABSPATH')) {
